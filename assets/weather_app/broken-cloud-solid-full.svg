@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 640 640"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="broken-cloud-solid-full.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch2"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#3d3d3d;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       id="swatch1"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch1"
+       id="linearGradient1"
+       x1="32"
+       y1="320"
+       x2="608"
+       y2="320"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch2"
+       id="linearGradient2"
+       x1="-195"
+       y1="544"
+       x2="381"
+       y2="544"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-3.9399257e-6)" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.89161746"
+     inkscape:cx="130.66142"
+     inkscape:cy="291.0441"
+     inkscape:window-width="2560"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <!--!Font Awesome Free 7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+  <path
+     d="m 105.90936,367.47525 c 0,68.84328 55.85398,124.69727 124.69726,124.69727 H 493.8564 c 61.2229,0 110.84202,-49.61912 110.84202,-110.84202 0,-44.68318 -26.41158,-83.2181 -64.51352,-100.71036 5.80189,-11.34398 9.09251,-24.24669 9.09251,-37.84215 0,-45.89552 -37.23599,-83.13151 -83.13151,-83.13151 -15.32737,0 -29.6156,4.15657 -41.91214,11.34398 -20.86947,-39.66065 -62.52182,-66.76499 -110.49563,-66.76499 -68.84328,0 -124.69726,55.85398 -124.69726,124.69726 0,6.92763 0.60617,13.76866 1.64531,20.34991 -49.27274,16.6263 -84.77682,63.30118 -84.77682,118.20261 z"
+     id="path1"
+     style="fill:url(#linearGradient1);stroke-width:0.865953" />
+  <path
+     d="m 40.37606,419.0889 c 0,68.84328 55.853983,124.69726 124.69727,124.69726 h 263.24978 c 61.22289,0 110.84201,-49.61912 110.84201,-110.84201 0,-44.68319 -26.41157,-83.21811 -64.51351,-100.71036 5.80188,-11.34399 9.0925,-24.24669 9.0925,-37.84216 0,-45.89552 -37.23598,-83.13151 -83.13151,-83.13151 -15.32737,0 -29.6156,4.15658 -41.91213,11.34399 -20.86947,-39.66066 -62.52182,-66.765 -110.49563,-66.765 -68.84328,0 -124.69727,55.85399 -124.69727,124.69727 0,6.92762 0.60617,13.76866 1.64531,20.3499 -49.272738,16.6263 -84.77682,63.30118 -84.77682,118.20262 z"
+     id="path1-8"
+     style="fill:url(#linearGradient2);stroke-width:0.865953" />
+</svg>

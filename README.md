@@ -78,9 +78,5 @@ Boards (z. B. GitHub Projects, Trello, Jira) helfen beim __Planen__, __Priorisie
 
 ---
 
-## Roadmap / Ideen
-- Erweiterte Weather App: Vorhersage (Forecast), Favoriten, Geolocation
-- Weitere Mini‑Projekte: Timer, Todo, Quiz, Image Gallery, Drag&Drop, Charts
-
 ## Lizenz
 Persönliches Lernprojekt. Nutzung auf eigene Verantwortung. API‑Keys sicher verwalten.

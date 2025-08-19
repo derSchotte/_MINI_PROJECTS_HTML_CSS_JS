@@ -58,6 +58,12 @@ npm run dev
 VITE_OPENWEATHERMAP_API_KEY=DEIN_KEY_HIER
 ```
 
+- Kurzanleitung (vereinheitlichte Handhabung):
+  1. Kopiere `.env_example` → `.env`.
+  2. Trage echte Werte in `.env` ein (niemals committen).
+  3. Behalte `.env_example` im Repo als Vorlage.
+  4. `.gitignore` ignoriert alle `.env*`, aber erlaubt `.env_example`.
+
 Wichtig: `.env` niemals committen. Stelle sicher, dass `.env` in `.gitignore` berücksichtigt ist. Für öffentliche Repos empfiehlt sich ein Demo‑Key oder das Auslassen sensibler Daten.
 
 ---
@@ -67,6 +73,7 @@ Die `boilerplate/` dient als schnelles Start‑Template für neue Mini‑Projekt
 - Vite + TypeScript vorkonfiguriert
 - Tailwind CSS v4 bereits eingebunden
 - Standard‑Skripte in `package.json`: `dev`, `build`, `preview`
+- Enthält ebenfalls eine `.env_example` als Vorlage für neue Projekte.
 
 Vorgehen: Ordner kopieren, Projekt umbenennen, loslegen.
 

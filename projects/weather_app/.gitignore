@@ -12,11 +12,12 @@ dist
 dist-ssr
 *.local
 
+# Environment files (ignore all .env* but keep examples)
+.env*
+!.env_example
+!.env.example
+
 # Editor directories and files
-<<<<<<< HEAD
-.env
-=======
->>>>>>> 4e279cd (feat: initialize weather app with boilerplate and assets setup)
 .vscode/*
 !.vscode/extensions.json
 .idea

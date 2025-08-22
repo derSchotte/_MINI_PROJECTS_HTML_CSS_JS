@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    @apply bg-teal-950;
+}
+
+.even {
+    @apply bg-teal-500/10;
+}
+
+.strike {
+    @apply line-through;
+    @apply text-gray-400;
+    @apply italic;
+    cursor: pointer;
+}
+    
